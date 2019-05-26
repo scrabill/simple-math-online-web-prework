@@ -28,8 +28,6 @@ end
 
 modulo(10,7)
 
-end
-
 def square_root(num)
 end
 
